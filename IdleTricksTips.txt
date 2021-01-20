@@ -1,0 +1,9 @@
+Alt + / uzupełnij nazwę funkcji w oparciu o jej początkowe litery
+TAB wyświetl listę dostępnych funkcji
+ctrl + ] - wcięcie
+Ctrl + O podświetl dopasowane nawiasy otwierające i  zamykające
+Alt + 3 zakomentuj zaznaczony fragment kodu
+Alt + 4 odkomentuj zaznaczony fragment kodu
+uruchom skrypt - shift enter - F5
+wyświetl listę dostępnych funkcji - ctrl + space
+
